@@ -19,6 +19,17 @@ I have been passionate about IT for a long time, developing in various fields �
 - Build data analysis projects that showcase insights through visualization and reporting.
 - Strengthen my knowledge of database management and ETL processes.
 - Continue developing my skills in both data analysis and quality assurance.
+## 👯 I’m looking to collaborate on data-driven projects, preferably in the fields of data analytics, machine learning, or data visualization.
+
+## 🤔 I’m looking for help with understanding more advanced statistical methods and how to apply them in real-world datasets.
+
+## 💬 Ask me about data analysis, programming in Python, or how to effectively use Excel for data-driven decisions!
+
+## 📫 How to reach me: You can contact me through GitHub, or connect with me via LinkedIn ([provide your LinkedIn profile link](https://www.linkedin.com/in/evgeniia-leonidova-85417a257/)).
+
+## 😄 Pronouns: She/Her
+
+## ⚡ Fun fact: I hold a black belt in Karate and have a background in music education. I absolutely love cats, but I’m allergic to them! It speaks to my unyielding character and determination to pursue what I love, despite any obstacles – of course, within reason! 🥋🎶🐱
 
 ## 💻 Tech Stack:
 - HTML5, CSS3, JavaScript, Python, SQL, Excel
@@ -55,20 +66,7 @@ I have been passionate about IT for a long time, developing in various fields �
   - 9 commits in [Data-Analysis-Projects](https://github.com/EvgeniiaLeonidova/Data-Analysis-Projects)
   - 5 commits in [Excel-Data-Cleaning](https://github.com/EvgeniiaLeonidova/Excel-Data-Cleaning)
 
-🔭 I’m currently working on improving my data analysis skills, exploring the world of data visualization, and automation using Python.
 
-🌱 I’m currently learning how to analyze large datasets, using tools like Pandas, SQL, and Excel, while also delving into machine learning and statistical methods.
 
-👯 I’m looking to collaborate on data-driven projects, preferably in the fields of data analytics, machine learning, or data visualization.
-
-🤔 I’m looking for help with understanding more advanced statistical methods and how to apply them in real-world datasets.
-
-💬 Ask me about data analysis, programming in Python, or how to effectively use Excel for data-driven decisions!
-
-📫 How to reach me: You can contact me through GitHub, or connect with me via LinkedIn (provide your LinkedIn profile link).
-
-😄 Pronouns: She/Her
-
-⚡ Fun fact: I hold a black belt in Karate and have a background in music education. I absolutely love cats, but I’m allergic to them! It speaks to my unyielding character and determination to pursue what I love, despite any obstacles – of course, within reason! 🥋🎶🐱
 
 
