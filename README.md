@@ -60,27 +60,7 @@ I have been passionate about IT for a long time, developing in various fields â€
 
 ![Jenny's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jenny85185&theme=gruvbox&margin-w=15&margin-h=15)
 
-## Popular Repositories:
 
-### [Data-Analysis-Projects](https://github.com/Jenny85185/Data-Analysis-Projects)
-- **Public** - Python, Jupyter Notebook
-
-### [Excel-Data-Cleaning](https://github.com/Jenny85185/Excel-Data-Cleaning)
-- **Public** - Excel, Python
-
-## Contributions
-
-- 31 contributions in the last year
-
-### Contribution Graph:
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Jenny85185&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&area_color=ff0b0b)
-
-### Recent Contributions:
-
-- **March 2025**
-  - 9 commits in [Data-Analysis-Projects](https://github.com/Jenny85185/Data-Analysis-Projects)
-  - 5 commits in [Excel-Data-Cleaning](https://github.com/Jenny85185/Excel-Data-Cleaning)
 
 
 
