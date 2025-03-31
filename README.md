@@ -33,7 +33,7 @@ I have been passionate about IT for a long time, developing in various fields �
 ⚡ Fun fact: I hold a black belt in Karate and have a background in music education. I absolutely love cats, but I’m allergic to them! It speaks to my unyielding character and determination to pursue what I love, despite any obstacles – of course, within reason! 🥋🎶🐱
 
 
-## 💻 Tech Stack:
+
 ## 💻 Tech Stack:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/TR/html5/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/css3/)
@@ -53,18 +53,19 @@ I have been passionate about IT for a long time, developing in various fields �
 
 ## 📊 GitHub Stats:
 
-![Evgeniia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvgeniiaLeonidova&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Jenny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenny85185&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
 
 ## 🏆 GitHub Trophies:
 
-![Evgeniia's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EvgeniiaLeonidova&theme=gruvbox&margin-w=15&margin-h=15)
+![Jenny's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jenny85185&theme=gruvbox&margin-w=15&margin-h=15)
 
 ## Popular Repositories:
 
-### [Data-Analysis-Projects](https://github.com/EvgeniiaLeonidova/Data-Analysis-Projects)
+### [Data-Analysis-Projects](https://github.com/Jenny85185/Data-Analysis-Projects)
 - **Public** - Python, Jupyter Notebook
 
-### [Excel-Data-Cleaning](https://github.com/EvgeniiaLeonidova/Excel-Data-Cleaning)
+### [Excel-Data-Cleaning](https://github.com/Jenny85185/Excel-Data-Cleaning)
 - **Public** - Excel, Python
 
 ## Contributions
@@ -73,13 +74,14 @@ I have been passionate about IT for a long time, developing in various fields �
 
 ### Contribution Graph:
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=EvgeniiaLeonidova&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&area_color=ff0b0b)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Jenny85185&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&area_color=ff0b0b)
 
 ### Recent Contributions:
 
 - **March 2025**
-  - 9 commits in [Data-Analysis-Projects](https://github.com/EvgeniiaLeonidova/Data-Analysis-Projects)
-  - 5 commits in [Excel-Data-Cleaning](https://github.com/EvgeniiaLeonidova/Excel-Data-Cleaning)
+  - 9 commits in [Data-Analysis-Projects](https://github.com/Jenny85185/Data-Analysis-Projects)
+  - 5 commits in [Excel-Data-Cleaning](https://github.com/Jenny85185/Excel-Data-Cleaning)
+
 
 
 
