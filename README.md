@@ -5,7 +5,7 @@
 I have been passionate about IT for a long time, developing in various fields — both as a Frontend Developer and as a QA Engineer (Test Specialist). I enjoy working with data, particularly in Excel, and I find it fascinating how data can help us make predictions and draw conclusions.
 
 ## 🛠 What I’m Working On:
-- Learning data analysis and how data can be used for predictions.
+- Learning data analysis and how data can make an impact
 - Exploring how data cleaning and processing work using Python.
 - Diving deeper into working with databases and SQL for meaningful insights.
 - Applying my QA background to ensure data integrity and correctness.
@@ -13,7 +13,7 @@ I have been passionate about IT for a long time, developing in various fields �
 ## 🌟 Currently Learning:
 - Python for data cleaning, processing, and exploratory analysis.
 - SQL for querying databases and extracting meaningful insights.
-- Statistical methods to interpret and predict trends from data.
+- Upskilling through NPower Canada, learning Python, SQL, and Excel, which allows me to adapt quickly to data-driven tasks. 
 
 ## 💡 Future Goals:
 - Build data analysis projects that showcase insights through visualization and reporting.
